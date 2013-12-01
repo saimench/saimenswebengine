@@ -1,0 +1,53 @@
+thead {
+	background-color: lightgrey;
+}
+
+th {
+	border: solid 1px black;
+}
+
+th strong {
+	color: red;
+}
+
+td {
+	border: solid 1px black;
+}
+
+td strong {
+	color: red;
+}
+
+td div {
+	width: 250px;
+}
+
+td.zentriert {
+	text-align: center;
+}
+
+td.code {
+	width: 250px;
+	font-family: monospace;
+	font-size: 1.25em;
+}
+
+.semantisch {
+	background-color: rgb(255,255,208);
+}
+
+.inline {
+	background-color: rgb(208,255,255);
+}
+
+.block {
+	background-color: rgb(255,208,208);
+}
+
+.semantisch-inline {
+	background-color: rgb(208,255,208);
+}
+
+.block-inline {
+	background-color: rgb(255,208,255);
+}
