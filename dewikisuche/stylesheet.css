@@ -1,0 +1,10 @@
+.links {
+	float: left;
+	text-align: right;
+	width: 40%;
+	margin-right: 2%;
+}
+
+.rechts, button {
+	margin-left: 42%;
+}
