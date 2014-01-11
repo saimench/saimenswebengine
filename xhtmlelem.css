@@ -1,0 +1,21 @@
+thead {
+	background-color: rgb(192, 192, 192);
+}
+
+th, td {
+	border: solid 1px black;
+	padding: 5px;
+}
+
+.zentriert {
+	text-align: center;
+}
+
+.code {
+	width: 250px;
+	font-family: monospace;
+}
+
+.zweitezeile {
+	background-color: rgb(212, 212, 212)
+}
